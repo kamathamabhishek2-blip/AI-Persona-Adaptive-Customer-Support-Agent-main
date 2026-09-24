@@ -1,0 +1,25 @@
+Subscription FAQ
+
+Q1. What subscription plans are available?
+We offer Basic, Professional, and Enterprise plans.
+
+Q2. Can I upgrade my plan?
+Yes. Plan upgrades can be performed anytime from the dashboard.
+
+Q3. Can I downgrade my subscription?
+Yes. Downgrades apply at the next billing cycle.
+
+Q4. Do unused credits carry forward?
+No. Unused credits expire at the end of the billing cycle.
+
+Q5. Can I cancel my subscription?
+Yes. Subscription cancellation is available anytime.
+
+Q6. What happens after cancellation?
+You retain access until the current billing cycle ends.
+
+Q7. Is there a free trial?
+Yes. New customers may receive a limited trial depending on plan availability.
+
+Q8. Can enterprise plans be customized?
+Yes. Enterprise plans support custom pricing and features.

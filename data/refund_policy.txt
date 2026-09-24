@@ -1,0 +1,33 @@
+Refund Policy
+
+Refund requests must be submitted within 7 days of payment.
+
+Refunds are only eligible under the following conditions:
+
+* Duplicate charges
+* Failed service activation
+* Billing system errors
+* Incorrect invoice generation
+
+Refunds are generally not eligible for:
+
+* Partial subscription usage
+* Expired billing periods
+* Custom enterprise contracts
+
+Refund request process:
+
+1. Contact billing support
+2. Submit payment details
+3. Provide issue explanation
+
+Required information:
+
+* Invoice number
+* Transaction ID
+* Payment date
+
+Refund processing time:
+5–7 business days
+
+Approved refunds are returned to the original payment method.

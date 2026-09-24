@@ -1,0 +1,37 @@
+Billing Policy
+
+Our SaaS platform offers monthly and annual subscription billing.
+
+Billing is processed automatically based on the active subscription plan.
+
+Supported billing cycles:
+
+* Monthly
+* Annual
+
+Accepted payment methods:
+
+* Credit Card
+* Debit Card
+* UPI
+* Bank Transfer
+
+Invoices are generated automatically after successful payment.
+
+Customers can download invoices from the billing dashboard.
+
+Late or failed payments may result in:
+
+* Service suspension
+* Restricted access
+* Delayed renewals
+
+Repeated payment failures may trigger account review.
+
+Billing disputes must be reported within 7 days of invoice generation.
+
+For billing-related issues, contact billing support with:
+
+* Account ID
+* Invoice number
+* Transaction reference
